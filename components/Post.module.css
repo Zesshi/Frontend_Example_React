@@ -1,0 +1,19 @@
+.post-card-styling {
+    border-bottom: 2px solid #c0c0c0;
+    color: black;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.card-title {
+    color: #4e4e4e;
+    font-size: 1.5em;
+    margin: 3px;
+    font-weight: bold;
+}
+
+.card-link {
+    font-style: italic;
+    color: #0f93b4;
+    margin-left: 8px;
+}
